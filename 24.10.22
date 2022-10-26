@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-id=\"4967\" tvg-logo=\"http://epg.it999.ru/img/4967.png\" group-title="Adult IPTV",SL EROTIC HD
+#EXTINF:1 tvg-id=\"4967\" tvg-logo=\"http://epg.it999.ru/img/4967.png\", group-title="Adult IPTV",SL EROTIC HD
 http://he11o.akadatel.com/iptv/GK4PSRT4R9N987/12160/index.m3u8
-#EXTINF:1 tvg-id=\"4968\" tvg-logo=\"http://epg.it999.ru/img/4968.png\" group-title="Adult IPTV",SL HOT 1 HD
+#EXTINF:1 tvg-id=\"4968\" tvg-logo=\"http://epg.it999.ru/img/4968.png\", group-title="Adult IPTV",SL HOT 1 HD
 http://he11o.akadatel.com/iptv/GK4PSRT4R9N987/12161/index.m3u8
